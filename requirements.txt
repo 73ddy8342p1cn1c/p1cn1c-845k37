@@ -1,2 +1,1 @@
-json
 python3-nmap
